@@ -1,0 +1,23 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(to top, #00c6fb 0%, #3079f0 100%);
+}
+
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+margin-top: 1px;
+background-color: greenyellow;
+}
+
+#btn{
+    background-color: yellow;
+    color: black;
+    margin: 5px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 6px;
+}
